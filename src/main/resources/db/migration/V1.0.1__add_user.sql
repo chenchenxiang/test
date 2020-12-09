@@ -1,0 +1,1 @@
+INSERT INTO user VALUES('123','cx',22);
